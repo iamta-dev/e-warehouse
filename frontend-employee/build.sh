@@ -1,0 +1,1 @@
+docker build . -t toeikanta/mc-vue-shop:frontend

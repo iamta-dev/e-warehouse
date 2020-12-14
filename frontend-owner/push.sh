@@ -1,0 +1,1 @@
+docker push toeikanta/mc-vue-shop:frontend
