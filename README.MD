@@ -1,6 +1,11 @@
 # ระบบ E-Warehouse
 
 ## UX/UI frontend-owner
+```
+cd frontend-owner
+npm install
+yarn serve
+```
 
 ### Dashboard
 <p align="center">
