@@ -1,11 +1,23 @@
 # ระบบ E-Warehouse
 
-### Videos
+## UX/UI frontend-owner
+
+### Dashboard
+<p align="center">
+  <img width="900" src="markdown/Dashboard.png">
+</p>
+
+### EntranceExit
+<p align="center">
+  <img width="900" src="markdown/EntranceExit.png">
+</p>
+
+## Videos
 1. [Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0&ab_channel=Fireship)
 
-### Links
+## Links
 1. [API docs](https://docs.google.com/document/d/1q6_sfjQ6jyJRovntlbM1WJCFNmN0vhXicqVxJ43BS1Q/edit?usp=sharing)
-### Codeing Standard
+## Codeing Standard
 
 1. `ใช้ ESLint กำกับการเขียน` ลดการ Ignore ให้มากที่สุด
 2. `ลดการใช้ CDN` ให้โหลด Package จาก npm มาแทน

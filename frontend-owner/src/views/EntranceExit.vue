@@ -20,45 +20,46 @@
 
     <!-- card -->
     <div class="row">
-      <div class="col card mb-3 " >
-        <div class="row no-gutters">
-          <div class="col-md-8">
+      <div class="col card mb-3 info" style="" >
+        <div class="row no-gutters" >
+          <div class="col-md-7" >
             <div >
               <h5 class="card-title card-text-number">35</h5>
               <p class="card-text">รถที่จะมาวันนี้</p>
             </div>
           </div>
-          <div class="col-md-4">
-            <v-icon size="170"> mdi-twitter </v-icon>
+          <div class="col-md-5" >
+            <v-icon size="112"> fas fa-truck-moving </v-icon>
           </div>
         </div>
       </div>
-      <div class="col card mb-3">
+      <div class="col card mb-3 red" >
         <div class="row no-gutters">
-          <div class="col-md-8">
-            <div>
-              <h5 class="card-title card-text-number">10</h5>
+          <div class="col-md-7" >
+            <div >
+              <h5 class="card-title card-text-number">35</h5>
               <p class="card-text">รถในโรงงาน</p>
             </div>
           </div>
-          <div class="col-md-4">
-            <v-icon size="170"> mdi-twitter </v-icon>
+          <div class="col-md-5" >
+            <v-icon size="110"> fas fa-truck </v-icon>
           </div>
         </div>
       </div>
-      <div class="col card mb-3">
+      <div class="col card mb-3 success" >
         <div class="row no-gutters">
-          <div class="col-md-8">
+          <div class="col-md-7" >
             <div >
-              <h5 class="card-title card-text-number">20</h5>
+              <h5 class="card-title card-text-number">35</h5>
               <p class="card-text">รับของแล้ว</p>
             </div>
           </div>
-          <div class="col-md-4">
-            <v-icon size="170"> mdi-twitter </v-icon>
+          <div class="col-md-5" >
+            <v-icon size="105"> fas fa-people-carry </v-icon>
           </div>
         </div>
       </div>
+      
     </div>
     <!-- card -->
 
